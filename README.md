@@ -1,0 +1,2 @@
+# caesarRussianWString
+pizdez chesn slovo
